@@ -31,6 +31,7 @@ function solve(currentIndex, calculatedString) {
 
 solve(0, "")
 
-console.log(solutions)
+console.log(solutions);
+}
 
 module.exports = letterCombinations;
