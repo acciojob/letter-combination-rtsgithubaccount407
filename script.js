@@ -9,7 +9,7 @@ function letterCombinations(input) {
     "6" : "mno",
     "7" : "pqrs",
     "8" : "tuv",
-    "9" : "xyz"
+    "9" : "wxyz"
 }
 
 let solutions = [] ;
